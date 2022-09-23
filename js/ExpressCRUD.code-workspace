@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "ExpressCRUD",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ExpressCRUD"
+	}
+}
